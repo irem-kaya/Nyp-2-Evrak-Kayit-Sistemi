@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Ayarlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAdminBilgileri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAdminAyarları.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEmanetAl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEmanetDurumu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEmanetVer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEvrakSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormKullanıcıAyarları.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormKullanıcıBilgileri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormKullanıcıBul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormKullanıcıEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormKullanıcıSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLoginAnimation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLoginScreem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="kullaniciGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

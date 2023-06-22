@@ -1,0 +1,88 @@
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\bin\Debug\net6.0-windows\Aşriv Kayıt Sistemi.exe
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\bin\Debug\net6.0-windows\Aşriv Kayıt Sistemi.deps.json
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\bin\Debug\net6.0-windows\Aşriv Kayıt Sistemi.runtimeconfig.json
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\bin\Debug\net6.0-windows\Aşriv Kayıt Sistemi.dll
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\bin\Debug\net6.0-windows\Aşriv Kayıt Sistemi.pdb
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv Kayıt Sistemi.csproj.AssemblyReference.cache
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.Form1.resources
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.Properties.Resources.resources
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv Kayıt Sistemi.csproj.GenerateResource.cache
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv Kayıt Sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv Kayıt Sistemi.AssemblyInfoInputs.cache
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv Kayıt Sistemi.AssemblyInfo.cs
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv Kayıt Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv Kayıt Sistemi.dll
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\refint\Aşriv Kayıt Sistemi.dll
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv Kayıt Sistemi.pdb
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv Kayıt Sistemi.genruntimeconfig.cache
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\ref\Aşriv Kayıt Sistemi.dll
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.FormAdminBilgileri.resources
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.FormAdminAyarları.resources
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.FormKullanıcıBul.resources
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.FormKullanıcıEkle.resources
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.FormKullanıcıSil.resources
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.Ayarlar.resources
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.FormLoginScreem.resources
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.FormEmanetAl.resources
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.FormEmanetDurumu.resources
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.FormEmanetVer.resources
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.FormEvrakSil.resources
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.FormKullanıcıAyarları.resources
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.FormKullanıcıBilgileri.resources
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.FormYeniKayıt.resources
+C:\Users\berka\OneDrive\Masaüstü\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.FormLoginAnimation.resources
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\bin\Debug\net6.0-windows\Aşriv Kayıt Sistemi.exe
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\bin\Debug\net6.0-windows\Aşriv Kayıt Sistemi.deps.json
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\bin\Debug\net6.0-windows\Aşriv Kayıt Sistemi.runtimeconfig.json
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\bin\Debug\net6.0-windows\Aşriv Kayıt Sistemi.dll
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\bin\Debug\net6.0-windows\Aşriv Kayıt Sistemi.pdb
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv Kayıt Sistemi.csproj.AssemblyReference.cache
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.Ayarlar.resources
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.FormAdminBilgileri.resources
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.FormAdminAyarları.resources
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.FormEmanetAl.resources
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.FormEmanetDurumu.resources
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.FormEmanetVer.resources
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.FormEvrakSil.resources
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.FormKullanıcıAyarları.resources
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.FormKullanıcıBilgileri.resources
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.FormKullanıcıBul.resources
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.FormKullanıcıEkle.resources
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.FormKullanıcıSil.resources
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.FormLoginAnimation.resources
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.FormLoginScreem.resources
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.Properties.Resources.resources
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv Kayıt Sistemi.csproj.GenerateResource.cache
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv Kayıt Sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv Kayıt Sistemi.AssemblyInfoInputs.cache
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv Kayıt Sistemi.AssemblyInfo.cs
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv Kayıt Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv Kayıt Sistemi.dll
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\refint\Aşriv Kayıt Sistemi.dll
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv Kayıt Sistemi.pdb
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv Kayıt Sistemi.genruntimeconfig.cache
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\ref\Aşriv Kayıt Sistemi.dll
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.adminGiris.resources
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv_Kayıt_Sistemi.kullaniciGiris.resources
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\obj\Debug\net6.0-windows\Aşriv Kayıt Sistemi.csproj.CopyComplete
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Huawei\Desktop\ArşivKayıtSistemi NYP-2\Aşriv Kayıt Sistemi\Aşriv Kayıt Sistemi\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
