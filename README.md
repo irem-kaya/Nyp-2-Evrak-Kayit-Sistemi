@@ -9,7 +9,7 @@ Bu proje, evrakların kaydedilmesi ve yönetilmesi için geliştirilmiş bir ar�
 - [Kullanım](#kullanım)
 - [Sınıf Detayları](#sınıf-detayları)
 - [Katkıda Bulunma](#katkıda-bulunma)
-- [Lisans](#lisans)
+
 
 ## Özellikler
 
